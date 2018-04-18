@@ -1,9 +1,9 @@
 h1 {
-  color: blue;
+  color: #0000FF;
   text-align: center;
 }
 h2 {
-  color: green;
+  color: #05AE00;
   font-style: italic;
   text-align: center;
 }
@@ -12,4 +12,11 @@ p {
 }
 ul{
   line-height: 40px;
+}
+body {
+  background-color: #F5FFB8;
+}
+ol {
+  line-height: 20px;
+  color: #540000;
 }
